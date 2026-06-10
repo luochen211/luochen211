@@ -2,6 +2,13 @@
 
 I build AI-powered tools, Codex workflows, full-stack web apps, and practical software for writing, documents, and product experiments.
 
+## GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luochen211&show_icons=true&theme=radical&hide_border=true" alt="Luochen's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luochen211&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
 ## Tech Stack
 
 ![AI Builder](https://img.shields.io/badge/AI-Builder-111111?style=flat-square&logo=openai&logoColor=white)
