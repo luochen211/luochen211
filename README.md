@@ -33,18 +33,12 @@ I build AI-powered tools, Codex workflows, full-stack web apps, and practical so
 - Web apps, product prototypes, and frontend experiments
 - Content, writing, and design-system experiments
 
-## Selected Projects
+## Strengths
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [ai-resume-analyzer](https://github.com/luochen211/ai-resume-analyzer) | AI resume analysis tool | Python |
-| [undergrad-thesis-formatter](https://github.com/luochen211/undergrad-thesis-formatter) | Undergraduate thesis formatter | Python |
-| [doc-auto-formatter-university-upload](https://github.com/luochen211/doc-auto-formatter-university-upload) | Document auto-formatting workflow | Python |
-| [huatu-skill](https://github.com/luochen211/huatu-skill) | Codex draw.io diagram skill | Codex |
-| [codex-enterprise-guide](https://github.com/luochen211/codex-enterprise-guide) | Practical Codex guide from zero to enterprise workflows | Docs |
-| [codex-frontend-design-principles](https://github.com/luochen211/codex-frontend-design-principles) | Notes on improving Codex frontend design | Docs |
-| [ai-learning-platform](https://github.com/luochen211/ai-learning-platform) | AI learning platform experiment | TypeScript |
-| [odyssey-fullstack-assignment](https://github.com/luochen211/odyssey-fullstack-assignment) | Full-stack assignment project | TypeScript |
+- Turning vague ideas into working prototypes quickly
+- Building AI-assisted workflows with Codex, Claude, and OpenAI
+- Connecting frontend, backend, automation, and documentation into usable products
+- Writing practical guides, project docs, and implementation notes
 
 ## Current Focus
 
