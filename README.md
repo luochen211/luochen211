@@ -6,7 +6,7 @@ I build AI-powered tools, Codex workflows, full-stack web apps, and practical so
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=luochen211&show_icons=true&theme=radical&hide_border=true" alt="Luochen's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luochen211&layout=compact&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luochen211&layout=compact&hide_border=true&hide=html" alt="Most used languages" />
 </p>
 
 ## Tech Stack
