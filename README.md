@@ -42,9 +42,3 @@ My favorite work sits at the intersection of product thinking, automation, and c
 - Designing AI-assisted workflows that are useful in daily work
 - Connecting frontend, backend, automation, and documentation into complete products
 - Writing clearly: product specs, guides, course materials, and implementation notes
-
-## GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luochen211&layout=compact&hide_border=true&hide=html,jupyter%20notebook&langs_count=8" alt="Most used languages" />
-</p>
