@@ -1,26 +1,34 @@
 # Hi, I'm Luochen
 
-I build AI-powered tools, Codex workflows, full-stack web apps, and practical software for writing, documents, and product experiments.
+I build AI-native products, Codex workflows, full-stack prototypes, and practical tools for writing, documents, learning, and business experiments.
 
-## GitHub Stats
+My favorite work sits at the intersection of product thinking, automation, and clear writing: taking a fuzzy idea, shaping it into a usable workflow, and shipping something people can actually use.
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luochen211&show_icons=true&theme=radical&hide_border=true" alt="Luochen's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luochen211&layout=compact&hide_border=true&hide=html" alt="Most used languages" />
-</p>
+## What I'm Building
+
+- AI-powered writing, document, and knowledge-work tools
+- Codex skills, agent workflows, and developer productivity systems
+- Full-stack web apps and fast product prototypes
+- Dashboards, internal tools, and business operations software
+- Practical guides, course materials, and implementation notes
+
+## Current Focus
+
+- AI agents that help with real work instead of demos
+- Codex-based development workflows and reusable skills
+- Productized automation for content, documents, and research
+- Small, sharp web apps that turn messy workflows into clear interfaces
 
 ## Tech Stack
 
-![AI Builder](https://img.shields.io/badge/AI-Builder-111111?style=flat-square&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude-Code-D97757?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI-Codex-111111?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-0F766E?style=flat-square)
+![Automation](https://img.shields.io/badge/Workflow-Automation-6D28D9?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
@@ -28,25 +36,15 @@ I build AI-powered tools, Codex workflows, full-stack web apps, and practical so
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-![Automation](https://img.shields.io/badge/Workflow-Automation-6D28D9?style=flat-square)
-![Docs](https://img.shields.io/badge/Docs-Formatter-2563EB?style=flat-square)
-![Design](https://img.shields.io/badge/Frontend-Design-0F766E?style=flat-square)
-
-## What I Build
-
-- AI resume analysis and job-search tools
-- Codex skills, AI coding workflows, and developer guides
-- Document formatting and thesis automation systems
-- Web apps, product prototypes, and frontend experiments
-- Content, writing, and design-system experiments
-
 ## Strengths
 
-- Turning vague ideas into working prototypes quickly
-- Building AI-assisted workflows with Codex, Claude, and OpenAI
-- Connecting frontend, backend, automation, and documentation into usable products
-- Writing practical guides, project docs, and implementation notes
+- Turning ambiguous ideas into working prototypes quickly
+- Designing AI-assisted workflows that are useful in daily work
+- Connecting frontend, backend, automation, and documentation into complete products
+- Writing clearly: product specs, guides, course materials, and implementation notes
 
-## Current Focus
+## GitHub
 
-AI agents, Codex workflows, automation systems, useful dashboards, and turning vague ideas into shipped software.
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luochen211&layout=compact&hide_border=true&hide=html,jupyter%20notebook&langs_count=8" alt="Most used languages" />
+</p>
