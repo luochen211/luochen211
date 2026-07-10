@@ -19,6 +19,10 @@ My favorite work sits at the intersection of product thinking, automation, and c
 - Productized automation for content, documents, and research
 - Small, sharp web apps that turn messy workflows into clear interfaces
 
+## Open Source Contributions
+
+- [career-ops](https://github.com/santifer/career-ops) — Added China-market salary reliability checks to the Chinese job-evaluation modes, distinguishing advertised compensation from guaranteed base pay and conditional components such as attendance bonuses, KPI pay, allowances, commissions, and overtime. Also added HR verification guidance and regression tests. [PR #1592](https://github.com/santifer/career-ops/pull/1592) was merged and shipped in v1.19.0.
+
 ## Tech Stack
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
