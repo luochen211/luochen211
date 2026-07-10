@@ -22,7 +22,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/santifer/career-ops">career-ops</a></h3>
-      <p>Open-source AI job-search infrastructure for turning applications into a more reliable workflow.</p>
+      <p>Open-source AI job-search infrastructure with <strong>59K+ stars</strong>, built to make applications a more reliable workflow.</p>
       <p><strong>30 merged PRs</strong> across safety, compensation integrity, scanning reliability, PDF generation, system updates, and cross-CLI workflows.</p>
     </td>
     <td width="50%" valign="top">
