@@ -1,62 +1,65 @@
 <p align="center">
   <picture>
-    <img src="./assets/hero.svg" alt="Ideas becoming workflows and products" width="1200">
+    <img src="./assets/hero.svg" alt="Luochen builds a path from ambiguity to useful systems" width="1200">
   </picture>
 </p>
 
-<h1 align="center">I turn messy knowledge work into AI-native products.</h1>
+<h1 align="center">落尘 · Luochen</h1>
+
+<p align="center"><strong>Agent systems · full-stack delivery · clear writing</strong></p>
 
 <p align="center">
-  I build with Codex, full-stack systems, and clear writing — mostly for content, documents, research, and business operations.
+  I turn ambiguous work into tools, workflows, and products that can survive contact with real users.<br>
+  我关心的不是 AI 看起来多聪明，而是它能不能把一件真实的事往前推进。
 </p>
 
 <p align="center">
-  <a href="https://luo-chen.com">Personal site</a> ·
-  <a href="https://x.com/luochenkafei">X</a> ·
-  <a href="https://github.com/luochen211?tab=repositories">Repositories</a>
+  <a href="https://luo-chen.com">PERSONAL SITE</a> &nbsp;·&nbsp;
+  <a href="https://x.com/luochenkafei">X / @luochenkafei</a> &nbsp;·&nbsp;
+  <a href="https://github.com/luochen211?tab=repositories">ALL REPOSITORIES</a>
 </p>
 
-## Selected Work
+<p align="center">
+  <img src="./assets/identity-orbit.svg" alt="Luochen's working orbit: observe, build, ship, learn" width="920">
+</p>
+
+## What I build
+
+<p align="center">
+  <img src="./assets/work-map.svg" alt="Three areas of Luochen's work: agent workflows, real products, and public thinking" width="1000">
+</p>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/santifer/career-ops">career-ops</a></h3>
-      <p>Open-source AI job-search infrastructure with <strong>59K+ stars</strong>, built to make applications a more reliable workflow.</p>
-      <p><strong>30 merged PRs</strong> across safety, compensation integrity, scanning reliability, PDF generation, system updates, and cross-CLI workflows.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Codex Workflows</h3>
-      <p>Reusable agent skills and development workflows for writing, research, documents, and product delivery.</p>
-      <p><strong>Focus:</strong> make AI useful in the daily work between an idea and a shipped result.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Product Experiments</h3>
-      <p>Small, sharp web apps that turn ambiguous processes into clear interfaces and repeatable systems.</p>
-      <p><strong>Typical shape:</strong> a fast prototype with a real user, a real workflow, and a short feedback loop.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Writing &amp; Knowledge Tools</h3>
-      <p>Practical guides, course materials, and document systems that make complex thinking easier to use.</p>
-      <p><strong>Principle:</strong> clarity is part of the product, not a layer added after the build.</p>
-    </td>
+    <td width="33%" valign="top"><strong>01 / AGENT WORKFLOWS</strong><br><br>Skills, harnesses, evaluation gates, and delivery habits that make coding agents useful beyond a demo.</td>
+    <td width="33%" valign="top"><strong>02 / REAL PRODUCTS</strong><br><br>Full-stack systems for orders, operations, documents, research, and the messy edges between roles.</td>
+    <td width="33%" valign="top"><strong>03 / PUBLIC THINKING</strong><br><br>Writing, courses, and visual explanations that turn hard-won project judgment into reusable knowledge.</td>
   </tr>
 </table>
 
-## Now
-
-- Building AI agents that help with real work instead of demos
-- Turning Codex workflows into reusable skills and production habits
-- Exploring productized automation for content, documents, research, and operations
-
-## Tools I Use
-
-**AI &amp; Automation** · OpenAI · Codex · Agent Workflows · Workflow Automation<br>
-**Product Engineering** · TypeScript · JavaScript · React · Vue<br>
-**Backend &amp; Data** · Python · FastAPI · Flask · Shell
+## Open source signal
 
 <p align="center">
-  <sub>Ideas are cheap. Useful systems are not.</sub>
+  <img src="./assets/open-source-signal.svg" alt="Open source contribution signal: career-ops, reviews, tests, and shipped changes" width="1000">
+</p>
+
+<p><a href="https://github.com/santifer/career-ops"><strong>career-ops</strong></a> is the clearest public proof: an AI job-search system where I contribute across safety, compensation integrity, scanning reliability, PDF generation, system updates, and cross-CLI workflows. The project is now above <strong>69K stars</strong>.</p>
+
+## Now / 正在做
+
+<p align="center">
+  <img src="./assets/now-console.svg" alt="Current focus: agent systems, product delivery, and useful explanations" width="1000">
+</p>
+
+- Building agents that help with real work instead of performing intelligence
+- Turning Codex workflows into reusable skills and production habits
+- Shipping small experiments, then checking them against users, systems, and reality
+
+## The stack is only the surface
+
+<p align="center"><code>Codex</code> <code>TypeScript</code> <code>JavaScript</code> <code>React</code> <code>Vue</code> <code>Python</code> <code>FastAPI</code> <code>Flask</code> <code>Shell</code></p>
+
+<p align="center">
+  <sub>Ideas are cheap. Useful systems are not.</sub><br>
+  <sub>想法很便宜，真正有用的系统不是。</sub>
 </p>
