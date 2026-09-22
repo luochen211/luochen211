@@ -43,18 +43,9 @@
   <img src="./assets/open-source-signal.svg" alt="Open source contribution signal: career-ops, reviews, tests, and shipped changes" width="1000">
 </p>
 
-<p><a href="https://github.com/career-ops-hq/career-ops"><strong>career-ops</strong></a> is where my open-source work is most visible. I am a <strong>core architecture and infrastructure contributor</strong> to this AI job-search system—not just a documentation or peripheral contributor.</p>
+<p align="center"><a href="https://github.com/career-ops-hq/career-ops"><img src="./assets/career-ops-contributor.svg" alt="Career-ops core architecture and infrastructure contribution map" width="1000"></a></p>
 
-<p>I have shipped <strong>30+ merged PRs</strong> across the parts that make the system dependable:</p>
-
-<ul>
-  <li><strong>Core workflow architecture:</strong> versioned CV artifacts, application-state coordination, standalone-mode configuration, and cross-CLI execution.</li>
-  <li><strong>Safety and trust boundaries:</strong> compensation reliability checks, CV fact validation, delegated-authorship safeguards, plugin path containment, and workspace-boundary enforcement.</li>
-  <li><strong>System reliability:</strong> updater drift detection, shipped-file scoping, ATS scanning resilience, request pacing, serialized shared sessions, and regression harnesses.</li>
-  <li><strong>Product delivery:</strong> Chinese CV typography and templates, profile-photo preview, PDF generation, application email drafting, and localized safety guardrails.</li>
-</ul>
-
-<p>Representative merged work: <a href="https://github.com/career-ops-hq/career-ops/pull/3657">authorship safeguards</a> · <a href="https://github.com/career-ops-hq/career-ops/pull/2859">workspace boundaries</a> · <a href="https://github.com/career-ops-hq/career-ops/pull/2862">browser-first extraction</a> · <a href="https://github.com/career-ops-hq/career-ops/pull/1992">visual regression testing</a> · <a href="https://github.com/career-ops-hq/career-ops/pull/1590">compensation integrity</a>.</p>
+<p align="center"><sub><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Aluochen211+is%3Amerged">30+ merged pull requests</a> across the system spine, safety boundaries, reliability layer, and user-facing delivery.</sub></p>
 
 ## Now / 正在做
 

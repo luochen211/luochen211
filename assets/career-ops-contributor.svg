@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Career-ops core architecture contribution</title>
+  <desc id="desc">Luochen is a core architecture and infrastructure contributor with more than thirty merged pull requests across workflow architecture, safety, reliability, and product delivery.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101820"/>
+      <stop offset="1" stop-color="#182d35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ff9a58"/>
+      <stop offset="1" stop-color="#63d8c8"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .ink { fill: #f8f3ea; }
+      .muted { fill: #9eabb0; }
+      .orange { fill: #ff9a58; }
+      .teal { fill: #63d8c8; }
+      .line { stroke: #ffffff; stroke-opacity: .14; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="760" rx="28" fill="url(#bg)"/>
+  <circle cx="1050" cy="70" r="140" fill="#63d8c8" fill-opacity=".08" filter="url(#glow)"/>
+  <circle cx="90" cy="700" r="180" fill="#ff9a58" fill-opacity=".06" filter="url(#glow)"/>
+
+  <text x="72" y="72" class="mono muted" font-size="15" letter-spacing="4">OPEN SOURCE / CAREER-OPS</text>
+  <text x="72" y="132" class="sans ink" font-size="42" font-weight="700">Core architecture contributor</text>
+  <text x="72" y="169" class="sans muted" font-size="20">Turning a job-search agent into a dependable system.</text>
+
+  <g transform="translate(850 55)">
+    <rect width="145" height="112" rx="18" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".16"/>
+    <text x="22" y="42" class="mono orange" font-size="34" font-weight="700">30+</text>
+    <text x="22" y="73" class="sans ink" font-size="15">merged PRs</text>
+    <text x="22" y="94" class="sans muted" font-size="13">shipped upstream</text>
+  </g>
+  <g transform="translate(1010 55)">
+    <rect width="118" height="112" rx="18" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".16"/>
+    <text x="22" y="42" class="mono teal" font-size="34" font-weight="700">4</text>
+    <text x="22" y="73" class="sans ink" font-size="15">system layers</text>
+    <text x="22" y="94" class="sans muted" font-size="13">architecture to UX</text>
+  </g>
+
+  <path d="M72 215H1128" class="line"/>
+  <path d="M72 215H1128" stroke="url(#accent)" stroke-width="2" stroke-dasharray="7 14" stroke-opacity=".75">
+    <animate attributeName="stroke-dashoffset" from="0" to="-168" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <g transform="translate(72 255)">
+    <rect width="252" height="300" rx="20" fill="#ffffff" fill-opacity=".06" stroke="#ff9a58" stroke-opacity=".6"/>
+    <circle cx="38" cy="40" r="13" fill="#ff9a58" fill-opacity=".25" stroke="#ff9a58"/>
+    <text x="72" y="47" class="mono orange" font-size="14" letter-spacing="2">ARCHITECTURE</text>
+    <text x="28" y="95" class="sans ink" font-size="22" font-weight="700">Core workflows</text>
+    <path d="M28 120H224" class="line"/>
+    <text x="28" y="155" class="sans muted" font-size="16">Versioned CV artifacts</text>
+    <text x="28" y="187" class="sans muted" font-size="16">Application-state coordination</text>
+    <text x="28" y="219" class="sans muted" font-size="16">Standalone-mode config</text>
+    <text x="28" y="251" class="sans muted" font-size="16">Cross-CLI execution</text>
+    <text x="28" y="278" class="mono orange" font-size="12">THE SYSTEM'S SPINE</text>
+  </g>
+
+  <g transform="translate(340 255)">
+    <rect width="252" height="300" rx="20" fill="#ffffff" fill-opacity=".06" stroke="#63d8c8" stroke-opacity=".6"/>
+    <circle cx="38" cy="40" r="13" fill="#63d8c8" fill-opacity=".25" stroke="#63d8c8"/>
+    <text x="72" y="47" class="mono teal" font-size="14" letter-spacing="2">TRUST</text>
+    <text x="28" y="95" class="sans ink" font-size="22" font-weight="700">Safety boundaries</text>
+    <path d="M28 120H224" class="line"/>
+    <text x="28" y="155" class="sans muted" font-size="16">Compensation checks</text>
+    <text x="28" y="187" class="sans muted" font-size="16">CV fact validation</text>
+    <text x="28" y="219" class="sans muted" font-size="16">Authorship safeguards</text>
+    <text x="28" y="251" class="sans muted" font-size="16">Path and workspace containment</text>
+    <text x="28" y="278" class="mono teal" font-size="12">WHAT MAKES IT SAFE</text>
+  </g>
+
+  <g transform="translate(608 255)">
+    <rect width="252" height="300" rx="20" fill="#ffffff" fill-opacity=".06" stroke="#ff9a58" stroke-opacity=".6"/>
+    <circle cx="38" cy="40" r="13" fill="#ff9a58" fill-opacity=".25" stroke="#ff9a58"/>
+    <text x="72" y="47" class="mono orange" font-size="14" letter-spacing="2">RELIABILITY</text>
+    <text x="28" y="95" class="sans ink" font-size="22" font-weight="700">System resilience</text>
+    <path d="M28 120H224" class="line"/>
+    <text x="28" y="155" class="sans muted" font-size="16">Updater drift detection</text>
+    <text x="28" y="187" class="sans muted" font-size="16">ATS scanning resilience</text>
+    <text x="28" y="219" class="sans muted" font-size="16">Paced requests and sessions</text>
+    <text x="28" y="251" class="sans muted" font-size="16">Regression harnesses</text>
+    <text x="28" y="278" class="mono orange" font-size="12">WHAT KEEPS IT RUNNING</text>
+  </g>
+
+  <g transform="translate(876 255)">
+    <rect width="252" height="300" rx="20" fill="#ffffff" fill-opacity=".06" stroke="#63d8c8" stroke-opacity=".6"/>
+    <circle cx="38" cy="40" r="13" fill="#63d8c8" fill-opacity=".25" stroke="#63d8c8"/>
+    <text x="72" y="47" class="mono teal" font-size="14" letter-spacing="2">DELIVERY</text>
+    <text x="28" y="95" class="sans ink" font-size="22" font-weight="700">User-facing output</text>
+    <path d="M28 120H224" class="line"/>
+    <text x="28" y="155" class="sans muted" font-size="16">Chinese CV typography</text>
+    <text x="28" y="187" class="sans muted" font-size="16">Templates and photo preview</text>
+    <text x="28" y="219" class="sans muted" font-size="16">PDF generation</text>
+    <text x="28" y="251" class="sans muted" font-size="16">Email and localized modes</text>
+    <text x="28" y="278" class="mono teal" font-size="12">WHAT USERS ACTUALLY SEE</text>
+  </g>
+
+  <path d="M72 615H1128" class="line"/>
+  <text x="72" y="654" class="mono muted" font-size="13" letter-spacing="3">SELECTED SHIPPED CHANGES</text>
+  <g class="sans" font-size="15">
+    <rect x="72" y="678" width="192" height="38" rx="19" fill="#ff9a58" fill-opacity=".15" stroke="#ff9a58" stroke-opacity=".55"/>
+    <text x="168" y="702" text-anchor="middle" class="ink">compensation integrity</text>
+    <rect x="278" y="678" width="172" height="38" rx="19" fill="#63d8c8" fill-opacity=".15" stroke="#63d8c8" stroke-opacity=".55"/>
+    <text x="364" y="702" text-anchor="middle" class="ink">workspace boundaries</text>
+    <rect x="464" y="678" width="172" height="38" rx="19" fill="#ff9a58" fill-opacity=".15" stroke="#ff9a58" stroke-opacity=".55"/>
+    <text x="550" y="702" text-anchor="middle" class="ink">browser extraction</text>
+    <rect x="650" y="678" width="176" height="38" rx="19" fill="#63d8c8" fill-opacity=".15" stroke="#63d8c8" stroke-opacity=".55"/>
+    <text x="738" y="702" text-anchor="middle" class="ink">visual regression</text>
+    <rect x="840" y="678" width="288" height="38" rx="19" fill="#ff9a58" fill-opacity=".15" stroke="#ff9a58" stroke-opacity=".55"/>
+    <text x="984" y="702" text-anchor="middle" class="ink">delegated-authorship safeguards</text>
+  </g>
+</svg>
