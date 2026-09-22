@@ -45,7 +45,7 @@
 
 <p align="center"><a href="https://github.com/career-ops-hq/career-ops"><img src="./assets/career-ops-contributor.svg" alt="Career-ops core architecture and infrastructure contribution map" width="1000"></a></p>
 
-<p align="center"><sub><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Aluochen211+is%3Amerged">30+ merged pull requests</a> across the system spine, safety boundaries, reliability layer, and user-facing delivery.</sub></p>
+<p align="center"><sub><a href="https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Aluochen211+is%3Amerged">56 merged pull requests</a></sub></p>
 
 ## Now / 正在做
 
